@@ -1,8 +1,8 @@
 web-cache-filter
 ================
 Caching statics file in Java Web with Filter
-##RUN
-```mvn tomcat:run```
+
+**RUNNING: ** ```mvn tomcat:run```
 
 ##SCREENSHOOT
 
